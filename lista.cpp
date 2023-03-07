@@ -215,8 +215,8 @@ void remove(tLista *ptlista, no *rem)
             ant = ant->prox;
         }    
         ant->prox = ant->prox->prox;
-        free(rem->veiculo);
-        free(rem);
+        delete(rem->veiculo);
+        delete(rem);
         ptlista->tam--;
     }
 }
