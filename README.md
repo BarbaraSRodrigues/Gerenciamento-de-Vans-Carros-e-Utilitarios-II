@@ -15,7 +15,7 @@ ou duplicar as structs da lista principal.
 
 - construir uma segunda lista de nós que apontem para os veículos ordenados pelas placas;
 
--realizar buscas na lista principal, construindo uma estrutura com as seguintes características abaixo, e ao final retire
+- realizar buscas na lista principal, construindo uma estrutura com as seguintes características abaixo, e ao final retire
 os veículos da estrutura e imprima as placas na tela;
 
 - **pilha:** inserir quando este tiver direção hidráulica e remover um veículo quando for direção mecânica;
