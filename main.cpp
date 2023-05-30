@@ -54,7 +54,7 @@ int main()
         }
         delete(p);
         ant->prox->prox = NULL;
-        ant->prox = NULL;// com isso o ultimo nao aparece mas a busca funciona
+        ant->prox = NULL;
         myfile.close();
     } else {
         cout << "Nao foi possivel abrir o arquivo." << endl;
