@@ -1,6 +1,8 @@
 # Gerenciamento-de-Vans-Carros-e-Utilitarios-II
 Segundo trabalho feito em C++ para a matéria de Algoritmo e Estrutura de Dados II, onde a nota foi 95 de 100. Esse repositório está com correções feitas no código para atingir a nota máxima.
 
+**Obs:** Como esse trabalho foi feito no NetBeans, pode ocorrer erro ao zipar e tentar abrir em outras IDEs. Caso aconteça, uma possibilidade é baixar separadamente os arquivos .cpp, .h e o banco de dados com os veículos.
+
 
 **Objetivo:** adquirir conhecimentos de manipulação de listas com alocação dinâmica (lista ligada ou encadeada) numa aplicação que cria listas, pilhas e filas como resultado de buscas numa lista principal de carros, vans e utilitários.
 
